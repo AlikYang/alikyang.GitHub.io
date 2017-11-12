@@ -3,7 +3,7 @@ layout: post
 title: 加密解密算法、PKI及SSL、创建私有CA
 date: 2017-11-10
 categories: blog
-tags: [数据加密,数据安全]
+tags: [数据加密,网络安全]
 description: 
 ---
 
