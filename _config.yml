@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "y" # 你的名字
+      author: "yang" # 你的名字
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
