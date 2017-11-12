@@ -35,16 +35,16 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 
- Defaults for posts
-#defaults:
+# Defaults for posts
+defaults:
   -
-#    scope: 
-#      path: ""
-#      type: "posts"
-#    values:
-#      layout: "post"
-#      author: "yang" # 你的名字
-#      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "yang" # 你的名字
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
