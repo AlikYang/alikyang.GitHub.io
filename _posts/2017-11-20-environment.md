@@ -1,7 +1,7 @@
 ---
 layout: post
 title: bash配置文件的区别
-date: 2017-3-02
+date: 2017-11-20
 categories: blog
 tags: [Linux]
 description: 
